@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1693351659 source:i:\codeblocks\product_key_fast_generator\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<windows.h>
+	<unistd.h>
+
